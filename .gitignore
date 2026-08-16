@@ -1,0 +1,9 @@
+.DS_Store
+# Generated files
+binary-header-parser/records.bin
+constant-memory-log-analyzer/server.log
+path-organizer/organized/
+practice-tasks/caesar-cipher/output.txt
+practice-tasks/filename-sanitizer/clean/
+practice-tasks/log-rotation-simulator/*.log
+safe-config-merger/merged.json

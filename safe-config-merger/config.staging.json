@@ -1,0 +1,6 @@
+{
+  "db": {
+    "host": "staging.example.com"
+  },
+  "features": ["a", "b", "c"]
+}
