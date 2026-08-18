@@ -7,3 +7,5 @@ practice-tasks/caesar-cipher/output.txt
 practice-tasks/filename-sanitizer/clean/
 practice-tasks/log-rotation-simulator/*.log
 safe-config-merger/merged.json
+photo.jpg.chunked
+uploads/
