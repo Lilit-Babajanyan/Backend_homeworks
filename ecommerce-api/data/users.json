@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "username": "David",
+    "passwordHash": "$2b$10$BvS3dfxttwLgkJfDtziN9OOfq2p4Dq/2A5l1L1Z.CWkK7GXTTYjxe",
+    "role": "admin"
+  },
+  {
+    "id": 2,
+    "username": "Mike",
+    "passwordHash": "$2b$10$u8tzcGe3P8WJiqxYGF.Li./KnhL5UH0pAU4UyWLmR16I3.6HO7U.y",
+    "role": "customer"
+  },
+  {
+    "id": 3,
+    "username": "Ann",
+    "passwordHash": "$2b$10$ZigubEz9xbibsAVhTe.2zebDx8pPRU/iLENcV4oL8miTd4G9XjBJy",
+    "role": "customer"
+  },
+  {
+    "id": 4,
+    "username": "Mary",
+    "passwordHash": "$2b$10$wB1RkHjqRIKozdgD79Y6Rui5HfDjhlDo.bYirdaj7C3oBeDWZH2iK",
+    "role": "customer"
+  }
+]
